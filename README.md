@@ -14,3 +14,10 @@ randomly and this is what it gave me.
 ChatGPT only made the "Password Generator.exe" I did the icon and the requirements file.
 
 (I did not edit this code, only chatGPT coded this.)
+
+# How to use
+1 - Make sur you have python and pip installed on your machine.
+
+2 - Run the "Requirements.bat" file and wait until all the needed libraries are downloaded.
+
+3 - Now all you have to do is run the "Password generator.exe" file and enjoy !
